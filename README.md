@@ -1,1 +1,1 @@
-# Selenium-SebScrapping-Automation
+# Selenium-WebScrapping-Automation
